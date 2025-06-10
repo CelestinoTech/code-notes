@@ -9,5 +9,4 @@ Repositório dedicado ao meu aprendizado contínuo em programação e tecnologia
 
 ---
 
-## 📂 Estrutura
 
